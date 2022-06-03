@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197737362180",
+    "project_id": "riyadah-af52f",
+    "storage_bucket": "riyadah-af52f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197737362180:android:e6c0c8a6c182c9ac9dd651",
+        "android_client_info": {
+          "package_name": "com.example.practiceriyadh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197737362180-iu35kl1li8girsphvokr4gd92kogjemc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practiceriyadh",
+            "certificate_hash": "5200f85bc156df802f542d4473b72c013d468a8c"
+          }
+        },
+        {
+          "client_id": "197737362180-moa7sgdn9u208ncq10vq9ttarvi4qt4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKbYYen0uScllwn7-ZYjfinIL4yW95R9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197737362180-moa7sgdn9u208ncq10vq9ttarvi4qt4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/drawable/ic_sms_edit.xml" value="0.176" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/drawable/main_retangle_white_bg.xml" value="0.176" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/drawable/to_round_corner_background.xml" value="0.176" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/drawable/zone_map_play_icon.xml" value="0.169" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/activity_blur_image.xml" value="0.176" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/activity_image.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/activity_login_screen.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/activity_try.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/activity_video_view.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/big_image_layout.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/common_action_bar.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/image_blur_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/image_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/small_image_layout.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/video_layout.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/reeta/AndroidStudioProjects/PracticeRiyadh/app/src/main/res/layout/zone_images_video_layout.xml" value="0.24635416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
